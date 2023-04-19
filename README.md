@@ -45,6 +45,18 @@ git commit -m 'deploy'
 cd -
 ```
 
+### commit and push
+
+### Install gh-pages package
+
+`npm install gh-pages --save-dev`
+
+### Deploy to GitHub Pages
+
+`npm run deploy`
+
+Done!
+
 ## With create react app
 
 ### Install github-pages package
